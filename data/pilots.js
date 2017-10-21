@@ -4526,8 +4526,8 @@
   },
   {
     "image": "pilots/Galactic Empire/Alpha-class Star Wing/rho-squadron-pilot.png",
-    "name": "Rho Squadron Pilot",
-    "xws": "rhosquadronpilot",
+    "name": "Rho Squadron Veteran",
+    "xws": "rhosquadronveteran",
     "ship": "Alpha-class Star Wing",
     "skill": 4,
     "points": 21,
